@@ -6,7 +6,7 @@
 | Data Set      | Format        | Source  |
 | ------------- |:-------------:| -----:|
 | [Worcester_birthdates_1900_2011.zip](https://github.com/HerschelKrustofsky/Data/blob/master/Worcester_birthdates_1900_2011.zip) | CSV | http://www.worcesterma.gov/city-clerk/certificates-licenses/birth-certificates/ |
-| [Worcester_dogs.zip](https://github.com/HerschelKrustofsky/Data/blob/master/Worcester_dogs.zip) | txt |http://www.worcesterma.gov/city-clerk/certificates-licenses/dog-licenses|
+| [Worcester_dogs.zip](https://github.com/HerschelKrustofsky/Data/blob/master/Worcester_dogs.zip) | TXT |http://www.worcesterma.gov/city-clerk/certificates-licenses/dog-licenses|
 
 
 
